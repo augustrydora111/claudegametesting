@@ -1,0 +1,6 @@
+Taken with Playwright at iPhone 13 size (390x664), Google Fonts blocked (system fallback font).
+first.png: start card. start.png: right after CLOCK IN.
+play-10s.png / play-30s.png: a scripted player pressing and holding 0.5 s on a 60 px grid of points.
+end.png: shift over screen after the 60 s timer.
+door-in.sh --shots timed out on this game (hookless start never advanced), so these were taken by hand.
+Untouched game: 0 page errors.
